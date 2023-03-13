@@ -21,7 +21,7 @@ Diese Vereinsordnung regelt die Angelegenheiten des Vereins.
     3. der Entscheidung des Vorstandes über die Einladung der interessierten Organisation zu einer Mitgliederversammlung
     4. der Vorstellung der Bewerbung durch die Antragstellenden auf einer Mitgliederversammlung, die über die den Status der Kandidatur entscheidet.
 
-
+(test) commit
 (3) Zur Aufnahme als Mitglied bedarf es
 
     1. eines Antrags auf Aufnahme in den Verein in Textform beim Vorstand. Der Vorstand hat den Antragstellenden ein entsprechendes Muster zur Verfügung zu stellen.
